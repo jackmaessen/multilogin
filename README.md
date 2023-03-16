@@ -3,22 +3,16 @@ Flatfile multilogin script
 
 A multilogin script with admin control panel. Data in .json stored, so NO DATABASE needed!
 
-Features: 
-
-Registration (double opt-in)
-Forgot username/password option
-
-List of confirmed & unconfirmed users
-
+<b>Features:</b><br /> 
+Registration (double opt-in)<br />
+Forgot username/password option<br />
+List of confirmed & unconfirmed users<br />
 Add user manually (without confirmation)
 
-Registration: /register.php
-
-Admin login: /admin/login.php
-
-Admin login details:
-
-username: admin
-
+Registration users: /register.php<br />
+Admin login: /admin/login.php<br />
+<br />
+<b>Admin login details:</b><br />
+username: admin<br />
 password: admin
 
