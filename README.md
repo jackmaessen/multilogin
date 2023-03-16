@@ -6,7 +6,6 @@ A multilogin script with admin control panel. Data in .json stored, so NO DATABA
 Features: 
 
 Registration (double opt-in)
-
 Forgot username/password option
 
 List of confirmed & unconfirmed users
