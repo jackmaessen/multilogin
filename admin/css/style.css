@@ -1,0 +1,38 @@
+.delete-user {
+	cursor: pointer;
+}
+/* ajax callback */
+.response {
+	position: fixed;
+	z-index: 99;
+	bottom: 0px;
+}
+.flyup {
+	animation: flyup 1s;
+    animation-fill-mode: forwards;
+}
+@keyframes flyup {
+  0% {  
+    bottom: -60px;
+  }
+  100% {
+    bottom: 40px;
+  }
+}
+
+/* Spinner */
+.overlay-spinner {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    top: 0px;
+    left: 0px;
+	/*background: rgba(0,0,0,0.2);*/
+}
+
+.spinner-grow {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}

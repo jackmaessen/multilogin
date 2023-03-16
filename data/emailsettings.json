@@ -1,0 +1,7 @@
+{
+    "from_name": "Tjeu",
+    "from_email": "tjeu@gmail.com",
+    "smtp_host": "localhost",
+    "smtp_port": 25
+
+}
